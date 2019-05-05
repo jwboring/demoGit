@@ -1,2 +1,4 @@
 line 1    new edit
 line 2		new edit
+line 3	new edit
+line 4 
